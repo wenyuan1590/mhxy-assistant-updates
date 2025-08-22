@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "release_date": "2024-05-20",
+  "notes": "\n1. 新增功能：优化了抓鬼辅助体验\n2. 修复问题：解决了部分设备兼容性问题",
+  "download_url": "https://github.com/YOUR_USERNAME/mhxy-assistant-updates/releases/download/v1.1.0/mhxy-assistant-setup-v1.1.0.exe",
+  "min_required_version": "1.0.0"
+}
